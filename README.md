@@ -98,7 +98,7 @@ The assignment also contrasts imputation-based approaches with **listwise deleti
 ## How to Run
 
 1. Download the dataset from the [Kaggle source](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset).  
-2. Open `imputation_via_regression.ipynb` in Jupyter Notebook.  
+2. Open `imputation.ipynb` in Jupyter Notebook.  
 3. Run all cells sequentially.  
 4. All datasets (A–D), splits, and classification results will be generated within the notebook.
 
